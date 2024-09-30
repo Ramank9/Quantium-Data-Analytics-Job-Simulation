@@ -1,6 +1,6 @@
 # Quantium-Data-Analytics-Job-Simulation
 Quantium Data Analytics Job Simulation on Forage
-
+![QVI](https://github.com/user-attachments/assets/8e79d6e9-eb32-4dc3-ac0a-6e341e694830)
 ## Overview
 
 This repository contains the tasks and reports completed during the Quantium Virtual Internship, focusing on data analytics, customer behavior, and uplift experimentation. Below are the key tasks, outcomes, skills developed, and tools used throughout the internship.
